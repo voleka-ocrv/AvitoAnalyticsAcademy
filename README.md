@@ -1,5 +1,6 @@
 # Avito Analytics Academy
 [Ссылка на курс](https://avito.tech/education/statistics#look)
+
 [Ссылка на репозиторий с материалами с курса](https://github.com/Mentaltired/avito_applied_statistics_abstract)
 ## Часть 1
 1. Статистический критерий
